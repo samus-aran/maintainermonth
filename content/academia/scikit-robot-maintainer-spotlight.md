@@ -1,5 +1,5 @@
 ---
-name: Iori Yanokura (Assistant Professor)
+name: Iori Yanokura
 institution: The University of Tokyo
 department: Graduate School of Information Science and Technology / Mechano-Informatics
 projectName: scikit-robot
@@ -8,7 +8,7 @@ projectWebsite: https://scikit-robot.readthedocs.io/en/latest/
 maintainerProfiles:
   - github: https://github.com/iory
   - orcid: https://orcid.org/0009-0009-4433-0013
-badges: ["Academic Maintainer"]
+badges: ["Academic Maintainer", "Assistant Professor"]
 description: "A lightweight, pure-Python library for robotic kinematics, motion planning, visualization, and control, designed to make robotics more accessible to students, researchers, and engineers."
 ---
 
