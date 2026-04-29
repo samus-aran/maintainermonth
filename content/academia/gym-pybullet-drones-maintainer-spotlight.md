@@ -7,7 +7,7 @@ projectRepo: https://github.com/learnsyslab/gym-pybullet-drones
 maintainerProfiles:
   - github: https://github.com/JacopoPan
   - orcid: https://orcid.org/0000-0003-2994-5422
-badges: ["Academic Maintainer"]
+badges: ["Academic Maintainer", "Research Software Engineer"]
 description: "A Python package for simulating Gymnasium environments for single- and multi-agent reinforcement learning of quadcopter control, built on the PyBullet physics engine."
 ---
 
