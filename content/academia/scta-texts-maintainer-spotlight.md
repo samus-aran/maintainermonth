@@ -144,4 +144,65 @@ Now, I've developed MCP services for agentic AI to:
 - Look up the Bible verse
 - Confirm its presence in the paragraph
 - Identify the word range
-- Insert the markup automatically
+- Insert the `<quote>` element in the XML document with the correct @source
+
+This task is documented as a SKILL called `/encode-quotes` that Claude Code uses to reliably identify and mark quotations.
+Edits can then be submitted as pull requests, where GitHub Actions help validate and quality control the changes.
+
+Over the last 10 years, my students and I have marked about 9,000 verses manually. Using Claude Code over the last month, I have added 8,000+ new Bible quotations, bringing the total to 17,112 confirmed quotations.
+
+At this rate, I expect to add an additional 50,000 Bible quotations by the end of 2026. I know of no other database of biblical reception in the Middle Ages that can match this size.
+
+This doesn't just work for Bible verses. Once those are complete, I will use the same process for marking citations of Patristic authors and uses of Canon Law.
+
+GIF: [https://s3.amazonaws.com/lum-faculty-jcwitt-public/2026-03-19-providence/bibleMarkingProcess.gif](https://s3.amazonaws.com/lum-faculty-jcwitt-public/2026-03-19-providence/bibleMarkingProcess.gif)
+
+Slide deck: [https://jeffreycwitt.com/slides/2026-03-19-providence/#/3/20](https://jeffreycwitt.com/slides/2026-03-19-providence/#/3/20)
+
+## Have you explored GitHub Agentic Workflows? What has your experience been?
+
+I wasn't aware of these Agentic Workflows until getting this survey, but I'm very interested in exploring them.
+
+From what I've read, they are a logical next step for iterating on the quotation marking agentic service described above.
+
+I want to move these MCP services away from my local computer and deploy them as a web service. Once done, I would love to see the `/encode-quotes` skill automatically fire as each pull request comes in.
+
+This would allow editors to review found and marked quotes before final approval. I'm also interested in running this in a more secure cloud environment.
+
+In short, I'm very eager to move this process to a cloud environment that can be triggered by pull request. It will take time, but it is definitely on my roadmap.
+
+## If you use GitHub Agentic Workflows, do you prefer to create, debug, and modify them through an agent, or by manually editing the markdown file?
+
+N/A
+
+## How do you see your contributors using AI when working on your project?
+
+From watching my students, I mostly see Copilot and inline recommendations via VS Code speeding up their work, either by correcting repeated errors or suggesting batch updates that they would have previously done manually.
+
+## What concerns or challenges, if any, do you have about the use of AI in your project or field?
+
+I frequently run out of tokens. The only thing stopping my Bible Verse Index from being completed within a week is token limitation.
+
+If I had unlimited tokens, I could spawn agents and index all known Bible verses within a couple of weeks.
+
+Successful use of AI agents also depends on maintaining a wide variety of services, including MCP services.
+
+It's a lot for one person to maintain.
+
+## How has your approach to maintaining this project evolved over time?
+
+See above.
+
+## How do you see AI shaping the future of your project or field?
+
+The success described above has been really astounding, and I'm mostly thinking of ways to expand this work. But it takes careful planning.
+
+In my experience, success requires very controlled parameters and prompts paired with well-designed MCP services that help keep the AI agent on track and using the right identifiers for the right system.
+
+The success of automatically creating indices encourages me to focus student work on creating high-quality foundational data.
+
+The better the initial transcriptions and markup are, the easier it becomes to reliably automate upstream tasks, such as citation marking and linking.
+
+## Is there anything else you'd like to share?
+
+I'm very grateful to have access to a GitHub educator account. The GitHub workflow has been central to my work, and I appreciate the effort that goes into maintaining it.
