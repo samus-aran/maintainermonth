@@ -1,5 +1,5 @@
 ---
-name: Mark Mahoney (Professor)
+name: Mark Mahoney
 institution: Carthage College
 department: Computer Science
 projectName: Storyteller
@@ -8,7 +8,7 @@ projectWebsite: https://markm208.github.io/
 maintainerProfiles:
   - github: https://github.com/markm208
   - orcid: https://orcid.org/0000-0003-3037-3441
-badges: ["Academic Maintainer"]
+badges: ["Academic Maintainer", "Professor"]
 description: "A free and open source VS Code extension that helps software developers guide others through their work using annotated code 'playbacks' that replay programming sessions with narrative commentary."
 ---
 
