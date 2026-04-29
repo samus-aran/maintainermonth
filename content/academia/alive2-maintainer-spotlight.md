@@ -1,5 +1,5 @@
 ---
-name: Nuno Lopes (Associate Professor)
+name: Nuno Lopes
 institution: University of Lisbon
 department: Computer Science
 projectName: Alive2
@@ -8,11 +8,11 @@ projectWebsite:
 maintainerProfiles:
   - github: https://github.com/nunoplopes
   - orcid: https://scholar.google.com/citations?user=DQnsjaoAAAAJ
-badges: ["Academic Maintainer"]
+badges: ["Academic Maintainer", "Associate Professor"]
 description: "A tool to automatically verify the correctness of LLVM optimizations, used by several companies and instrumental in finding hundreds of bugs in LLVM."
 ---
 
-## What is this project, and what does it help people do?
+## What is Alive2, and what does it help people do?
 
 Alive2 is a tool to automatically verify the correctness of LLVM optimizations.
 
