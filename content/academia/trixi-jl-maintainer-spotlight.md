@@ -1,5 +1,5 @@
 ---
-name: Hendrik Ranocha (Professor)
+name: Hendrik Ranocha
 institution: Johannes Gutenberg University Mainz
 department: Institute of Mathematics
 projectName: Trixi.jl
@@ -8,7 +8,7 @@ projectWebsite: https://trixi-framework.github.io/Trixi.jl/stable/
 maintainerProfiles:
   - github: https://github.com/ranocha
   - orcid: https://orcid.org/0000-0002-3456-2277
-badges: ["Academic Maintainer"]
+badges: ["Academic Maintainer", "Professor"]
 description: "A numerical simulation framework for conservation laws written in Julia, designed to be useful to both scientists and students with a focus on ease of use, extensibility, and performance."
 ---
 
