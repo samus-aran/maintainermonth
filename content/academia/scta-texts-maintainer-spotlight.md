@@ -159,21 +159,6 @@ GIF: [https://s3.amazonaws.com/lum-faculty-jcwitt-public/2026-03-19-providence/b
 
 Slide deck: [https://jeffreycwitt.com/slides/2026-03-19-providence/#/3/20](https://jeffreycwitt.com/slides/2026-03-19-providence/#/3/20)
 
-## Have you explored GitHub Agentic Workflows? What has your experience been?
-
-I wasn't aware of these Agentic Workflows until getting this survey, but I'm very interested in exploring them.
-
-From what I've read, they are a logical next step for iterating on the quotation marking agentic service described above.
-
-I want to move these MCP services away from my local computer and deploy them as a web service. Once done, I would love to see the `/encode-quotes` skill automatically fire as each pull request comes in.
-
-This would allow editors to review found and marked quotes before final approval. I'm also interested in running this in a more secure cloud environment.
-
-In short, I'm very eager to move this process to a cloud environment that can be triggered by pull request. It will take time, but it is definitely on my roadmap.
-
-## If you use GitHub Agentic Workflows, do you prefer to create, debug, and modify them through an agent, or by manually editing the markdown file?
-
-N/A
 
 ## How do you see your contributors using AI when working on your project?
 
