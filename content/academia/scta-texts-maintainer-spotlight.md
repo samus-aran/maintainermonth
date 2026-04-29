@@ -8,7 +8,7 @@ projectWebsite: https://scta.info
 maintainerProfiles:
   - github: https://github.com/jeffreycwitt
   - orcid: https://orcid.org/0000-0002-0682-4065
-badges: ["Academic Maintainer"]
+badges: ["Academic Maintainer", "Professor"]
 description: "A repository for transcriptions of Medieval Latin texts, enabling students and scholars worldwide to collaboratively build a connected, machine-actionable corpus of the medieval scholastic tradition."
 ---
 
