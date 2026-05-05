@@ -20,13 +20,13 @@ It is a teacher- and student-led project, with contributions from more than 300 
 
 ## What inspired this project?
 
-Amy started this project during a 2022/23 sabbatical to examine a single question: what would educational programming languages look like if they were designed for everyone, instead of just white, Western, non-disabled, neurotypical, English-fluent men?
+I started this project during my 2022/23 sabbatical to examine a single question: what would educational programming languages look like if they were designed for everyone, instead of just white, Western, non-disabled, neurotypical, English-fluent men?
 
-As a mixed-race, transgender, multilingual scholar who has never fully resonated with the visions of computing that emerged from elite, male-dominated institutions in the US and UK, Amy wanted to pursue a different vision — one that centres disability, gender, racial, linguistic, and educational justice, rather than the capitalist, extractive values of efficiency and profit.
+As a mixed-race, transgender, multilingual scholar who has never fully resonated with the visions of computing that emerged from elite, male-dominated institutions in the US and UK, I wanted to pursue a different vision — one that centres disability, gender, racial, linguistic, and educational justice, rather than the capitalist, extractive values of efficiency and profit.
 
 ## How the project connects to academic work
 
-Wordplay is one of Amy's core, long-term research projects, expected to continue for 10–20 years. It will be published at the ACM CHI 2025 conference in Yokohama, Japan.
+Wordplay is one of my core, long-term research projects, expected to continue for 10–20 years. It will be published at the ACM CHI 2025 conference in Yokohama, Japan.
 
 As a community-engaged project, the focus is on partnership rather than scale. The team works closely with a middle school technology teacher in Bellevue, Washington, whose students are multilingual, immigrants, neurodiverse, and gender diverse. These students help shape the platform and co-design curricula in response to their identities, interests, and visions of computing. They are not only users of the platform, but also contributors to it.
 
@@ -38,17 +38,17 @@ In the past three years, the project has impacted the skills, knowledge, and com
 
 ## What it takes to maintain the project
 
-Amy serves as the project facilitator and lead developer. Middle school students and their teachers identify defects, enhancements, and strategic directions, which define the milestones and priorities for the project.
+I serve as the project facilitator and lead developer. Middle school students and their teachers identify defects, enhancements, and strategic directions, which define the milestones and priorities for the project.
 
 Undergraduates work on these priorities in partnership with students and teachers, learning software engineering through a year-long directed research group. The project uses continuous integration, fork-based pull request development, and releases are typically made weekly.
 
-Because contributors are often low-skill and high-turnover, the team structure relies on Amy's stable role as a tenured professor to maintain institutional knowledge, project management, and fundraising. The project currently has no dedicated funding, and given the broader political climate, there is limited expectation of future support.
+Because contributors are often low-skill and high-turnover, the team structure relies on my stable role as a tenured professor to maintain institutional knowledge, project management, and fundraising. The project currently has no dedicated funding, and given the broader political climate, there is limited expectation of future support.
 
 ## Biggest challenges in an academic setting
 
 Student learning and turnover are the biggest barriers to progress. While teaching students to a level where they can make meaningful contributions is rewarding, onboarding them alongside their other coursework — and with limited resources to compensate their time — often results in eight weeks of teaching for only two weeks of project contributions.
 
-As a result, most development work falls to Amy, often on weekends, since faculty life is too fragmented to allow for the sustained focus that engineering progress requires.
+As a result, most development work falls to me, often on weekends, since faculty life is too fragmented to allow for the sustained focus that engineering progress requires.
 
 ## Ensuring long-term sustainability
 
@@ -70,4 +70,4 @@ For coursework, AI is a subject of critical inquiry as much as a tool — compli
 
 At a time when colleges and universities are under pressure, and many marginalised groups are being dismissed or excluded, it is critical to push back and insist that everyone deserves to participate fully in society.
 
-Highlighting this project is an opportunity to amplify that idea and to support a vision of computing that is inclusive, rather than one that continues to prioritise profit over people. Amy hopes to inspire others to either support Wordplay or to create their own projects that reimagine computing in ways that engage and include everyone.
+Highlighting this project is an opportunity to amplify that idea and to support a vision of computing that is inclusive, rather than one that continues to prioritise profit over people. I hope to inspire others to either support Wordplay or to create their own projects that reimagine computing in ways that engage and include everyone.
