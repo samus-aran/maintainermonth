@@ -100,6 +100,38 @@ Not yet, but we would be interested in participating in the future.
 
 The project is inherently social and becomes more useful as its user base grows. We hope that showcasing it will encourage more people to try it and contribute. In fact, we want to encourage design choices that challenge conventional wisdom, like the idea of writing a compiler in Python. While not the obvious choice for a traditional compiler engineer, the new design point xDSL chose has led to significant innovation which also regularly feeds back to the LLVM community.
 
+## Do you use AI tools in your day to day work on this project? If so, how?
+
+Individual contributors use AI, e.g., using editor integrations.
+
+## Do you implement AI into your classroom or coursework (if applicable)? If so, what does that look like in practice?
+
+Not at the moment.
+
+## Has AI changed how you maintain or manage your project?
+
+AI has led to an increase in patch submissions. We carefully work with contributors to educate them on how to best contribute to an open-source project and added a [CONTRIBUTING.md](https://github.com/xdslproject/xdsl/blob/main/CONTRIBUTING.md) file to help both humans and AI with contributions. Interestingly, best practices in open-source projects, e.g., splitting patches into individual features and having only a small number of patches in-flight hold for both humans and AI patches.
+
+## Have you experimented with AI driven or automated workflows in your project? What has that looked like?
+
+No.
+
+## How do you see your contributors using AI when working on your project?
+
+PRs and code contributions may include some AI-generated content, but we do not receive an overwhelming level of AI-generated code.
+
+## What concerns or challenges, if any, do you have about the use of AI in your project or field?
+
+Our project has good test coverage, but this coverage still requires humans to inspect the tests. At higher contribution rates, ensuring correctness will become challenging.
+
+## How has your approach to maintaining this project evolved over time?
+
+Our workflow has become significantly streamlined over time. The LLVM community has an incredibly efficient workflow which we adopted and evolved. We can meanwhile handle a steady stream of contributions at very low latency, which we are very proud of.
+
+## How do you see AI shaping the future of your project or field?
+
+AI will be a powerful tool, which accelerates and even automates our workflows to a large degree. Open-source communities will face pressure to evolve. Yet, they also offer a unique opportunity: they already have humans and machines interact at scale to reach consensus - such workflows will likely gain importance as the use of AI increases.
+
 ## Is there anything else you'd like to share about your project or open source journey?
 
 My (Tobias') personal academic career started with open-source development and led to a strong desire to perform open-source-first research. I began contributing to open source over 15 years ago as a GCC developer, when I joined the Graphite research project led by Sebastain Pop and Albert Cohen. Since my first day as a student, open source has played a major role in shaping my career. In fact, I wrote almost exclusively open-source code, most of which either became part of or initiated an open-source project. Mathieu and Sasha both develop large-scale open-source projects as core part of their PhD, and give students with xDSL every day the opportunity to engage in open-source-focused research. For us, open-source research is engaging, productive, and incredibly social. We thank the xDSL and wider open-source community for the welcoming and engaging atmosphere they offer!
